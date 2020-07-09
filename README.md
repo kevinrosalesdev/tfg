@@ -14,18 +14,22 @@
 
 ## Índice
 
-1. [Información del proyecto](#1.-Información-del-proyecto)
-2. [Navegación del repositorio](#2.-Navegación-del-repositorio)
-3. [Resultados de los prototipos desarrollados](#3.-Resultados-de-los-prototipos-desarrollados)
-   - 3.1 [Verificación mediante umbral](#3.1-Verificación-mediante-umbral)
-   - 3.2 [Verificación mediante redes neuronales](#3.2-Verificación-mediante-redes-neuronales)
-   - 3.3 [Uso de los mejores prototipos para los conjuntos de vídeos elegidos](#3.3-Uso-de-los-mejores-prototipos-para-los-conjuntos-de-vídeos-elegidos)
+1. [Información del proyecto](#1-Información-del-proyecto)
+2. [Navegación del repositorio](#2-Navegación-del-repositorio)
+3. [Resultados de los prototipos desarrollados](#3-Resultados-de-los-prototipos-desarrollados)
+   - 3.1 [Verificación mediante umbral](#31-Verificación-mediante-umbral)
+   - 3.2 [Verificación mediante redes neuronales](#32-Verificación-mediante-redes-neuronales)
+   - 3.3 [Uso de los mejores prototipos para los conjuntos de vídeos elegidos](#33-Uso-de-los-mejores-prototipos-para-los-conjuntos-de-vídeos-elegidos)
 
 ## 1. Información del proyecto
 
 > La introducción de robots de servicio como asistentes en edificios enfrentándose a problemas diferentes a los existentes actualmente, como el guiado de personas en una única planta, será una realidad en años venideros. Uno de estos es la cooperación bajo interacción hombre-máquina entre varios robots ubicados en diversos pisos de dicho edificio, planteando una comunicación donde uno, localizado en una planta distinta, reconozca a la persona orientada inicialmente en otra entre varias, continuando la colaboración. Para resolver este problema de verificación de identidad se usará el conjunto de datos AveRobot, cuyas condiciones de captura no ideales implican un reto que será encarado estudiando tecnologías biométricas faciales y analizando técnicas de detección, generación y distancia de vectores descriptores o redes neuronales.
 
 Toda la información del proyecto se puede encontrar en la **Memoria del Trabajo de Fin de Grado** entregada junto al enlace de este repositorio y al Manual de Usuario.
+
+Si se tiene cualquier duda, se puede contactar con el autor vía correo electrónico universitario: 
+
+<kevin.rosales101@alu.ulpgc.es>
 
 ## 2. Navegación del repositorio
 
